@@ -62,7 +62,7 @@ noBtn.addEventListener("mouseover", () => {
 yesBtn.addEventListener("click", () => {
     title.textContent = "Yippeeee! See My Boy soon <3";
 
-    catImg.src = "/Users/megann/Desktop/v_day_test/dric_hug.gif";
+    catImg.src = "dric_hug.gif";
 
     document.querySelector(".letter-window").classList.add("final");
 

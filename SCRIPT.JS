@@ -61,7 +61,7 @@ noBtn.addEventListener("mouseover", () => {
 // YES is clicked
 
 yesBtn.addEventListener("click", () => {
-    title.innerHTML = "Yippeee! Happy Valentines Day BoB ꒰ᐢ⸝⸝⸝⸝⸝ᐢ꒱⸒⸒♡ <br>See My Boy soon <3";
+    title.innerHTML = "Yippeee! Happy Valentine's Day BoB ꒰ᐢ⸝⸝⸝⸝⸝ᐢ꒱⸒⸒♡ <br>See My Boy soon <3";
 
     catImg.src = "dric_hug.gif";
 
